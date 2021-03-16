@@ -18,10 +18,9 @@ public abstract class Dog {
     }
 
     public void feed (){
-
     }
-    public void play (int hours){
 
+    public void play (int hours){
     }
 
 
