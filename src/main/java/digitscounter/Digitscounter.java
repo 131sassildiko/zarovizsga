@@ -1,4 +1,4 @@
-package hu.nive.ujratervezes.zarovizsga.digitscounter;
+package digitscounter;
 
 public class Digitscounter {
 
