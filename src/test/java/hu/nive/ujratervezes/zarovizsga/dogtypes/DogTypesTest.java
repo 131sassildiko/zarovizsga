@@ -22,7 +22,7 @@
 //        dataSource.setUrl("jdbc:mariadb://localhost:3306/employees?useUnicode=true");
 //        dataSource.setUser("employees");
 //        dataSource.setPassword("employees");
-//
+////
 //        Flyway flyway = Flyway.configure().dataSource(dataSource).load();
 //
 //        flyway.clean();
